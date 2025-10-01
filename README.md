@@ -4,6 +4,7 @@ Blueberry Yield Prediction and Exploration
 This repository contains a Jupyter notebook (Yield_prediction_and_data_exploration.ipynb) for a machine learning project focused on predicting blueberry yield. The notebook follows a structured approach, from initial data exploration to model development and evaluation.
 
 Approach
+
 The project is structured into eleven main steps, as outlined in the notebook:
 
 Read Data: Loads training, testing, and initial datasets.
